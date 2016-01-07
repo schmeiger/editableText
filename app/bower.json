@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "authors": [
+    "Natali <natalis.mailbox@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-animate": "~1.4.8"
+  }
+}

@@ -1,0 +1,40 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	max-width: 800px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+button {
+	background: #2c3bab;
+	color: white;
+	font-size: 24px;
+	padding: 10px 20px;
+	border: 0;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	-ms-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	transition: all 0.4s;
+	
+}
+
+button:hover {
+	background: #8cc948;
+	cursor: pointer;
+}
+
+.editable-content {
+	border: 1px solid black;
+	margin: 20px 0;
+	padding: 20px;
+}
+
+.editable {
+	color: #c70b15;
+}

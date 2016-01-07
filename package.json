@@ -1,0 +1,11 @@
+{
+  "name": "directives_edirtext",
+  "version": "1.0.0",
+  "description": "directives 101",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "mau"
+  },
+  "author": "Nati",
+  "license": "ISC"
+}
